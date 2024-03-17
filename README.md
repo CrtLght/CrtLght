@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CrtLght
 - 👀 I’m interested in electronic and web.
-- 🌱 I’m currently learning C, assembly and VerilogHDL.
+- 🌱 I’m currently learning C and VerilogHDL.
 
 <!---
 CrtLght/CrtLght is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
