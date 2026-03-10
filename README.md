@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CrtLght
-- 👀 I’m interested in electronic and web.
+- 👀 I’m interested in electronic.
 - 🌱 I’m currently learning C and VerilogHDL.
 
 <!---
